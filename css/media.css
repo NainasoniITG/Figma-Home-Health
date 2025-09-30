@@ -132,7 +132,7 @@
 /* Mobile view (up to 768px) */
 @media screen and (max-width: 768px) {
     #container {
-        margin: 0px 30px;
+        margin: 0px;
     }
 
     .header {
