@@ -217,7 +217,6 @@ button.secondary-button {
 
 button:hover.secondary-button {
     color: white;
-    border: none;
     background-color: black;
 }
 
